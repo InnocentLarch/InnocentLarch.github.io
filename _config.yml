@@ -1,7 +1,7 @@
 # 站点设置
 title: 不知道叫什么 # 名称
 SEOTitle: 不知道叫什么(Microsoft.COM)-博客、生活、秒事 # 网页标签上显示的小标题
-header-img: img/home-bg.jpg
+header-img: img/home-bg.jpeg
 email: 不知道@gmail.com
 description: "不知道说什么。"
 keyword: "无" # 关键词
@@ -60,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus 评论系统
-disqus_username: ssnhd
+#disqus_username: ssnhd
 
 # Netease settings
 netease_comment: false
@@ -76,7 +76,7 @@ netease_comment: false
 # 侧边栏设置
 sidebar: true
 sidebar-about-description: "无业游民"
-sidebar-avatar: /img/avatar-me.jpg # 头像
+sidebar-avatar: /img/512.png # 头像
 
 # Featured Tags 主页右侧特色标签
 featured-tags: true # whether or not using Feature-Tags
