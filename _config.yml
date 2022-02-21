@@ -76,7 +76,7 @@ netease_comment: false
 # 侧边栏设置
 sidebar: true
 sidebar-about-description: "无业游民"
-sidebar-avatar: /img/512.png # 头像
+sidebar-avatar: /img/512.jpg # 头像
 
 # Featured Tags 主页右侧特色标签
 featured-tags: true # whether or not using Feature-Tags
